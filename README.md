@@ -12,16 +12,36 @@ The work characterizes:
 - Thermocline and halocline dynamics
 - Thermohaline stability and fine structure
 
-### Methodology
+---
+
+## Methodology
+
 The analysis was conducted primarily using **Ocean Data View (ODV)** for visualization and profile analysis, supported by additional processing in Python and spreadsheet-based calculations.
 
-### Notes on Reproducibility
+---
+
+## Reproducibility and Code
+
+This thesis was developed using **Ocean Data View (ODV)**, a standard GUI-based tool in physical oceanography. As a result, no standalone source code is provided.
+
+All analyses are based on publicly available data from the **World Ocean Atlas 2018 (WOA18)**, and the methodological details required to reproduce the results are fully documented in the thesis.
+
+---
+
+## Notes on Reproducibility
+
 This repository does **not** include scripts, as the original analysis was performed using ODV interactive workflows and manual post-processing. The repository is intended as a **scientific reference and writing sample**, not as a computational replication package.
 
-### Document
-- `temperature-salinity-climatology-gerlache-strait.pdf`
+---
 
-### Keywords
+## Document
+
+- `temperature-salinity-climatology-gerlache-strait-1981-2010.pdf`
+
+---
+
+## Keywords
+
 Physical oceanography, climatology, Antarctic Peninsula, thermohaline structure, World Ocean Atlas
 
 ---
