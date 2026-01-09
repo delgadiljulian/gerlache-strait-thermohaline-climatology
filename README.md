@@ -40,6 +40,24 @@ This repository does **not** include scripts, as the original analysis was perfo
 
 ---
 
+## Dissemination
+
+Parts of this research were presented as a scientific poster at the **XIX SENALMAR Conference (2022)**,  
+held in **Cartagena, Colombia**.
+
+The extended abstract appears in the official conference proceedings:
+
+- **Event:** XIX Seminario Nacional de Ciencias y Tecnologías del Mar (SENALMAR)  
+- **Date:** October 2022  
+- **Location:** Cartagena, Colombia  
+- **Proceedings:** SENALMAR 2022 – 50 Years  
+- **Page:** 226  
+- **Official website:** https://cco.gov.co/senalmar/
+
+This conference presentation corresponds to the same research work as the undergraduate thesis and does not constitute an independent publication.
+
+---
+
 ## Keywords
 
 Physical oceanography, climatology, Antarctic Peninsula, thermohaline structure, World Ocean Atlas
