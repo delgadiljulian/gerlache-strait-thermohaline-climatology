@@ -52,7 +52,7 @@ The extended abstract appears in the official conference proceedings:
 - **Location:** Cartagena, Colombia  
 - **Proceedings:** SENALMAR 2022 – 50 Years  
 - **Page:** 226  
-- **Official website:** https://cco.gov.co/senalmar/
+- **Official website (Memorias):** https://cco.gov.co/senalmar/
 
 This conference presentation corresponds to the same research work as the undergraduate thesis and does not constitute an independent publication.
 
